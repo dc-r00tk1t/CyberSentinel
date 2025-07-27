@@ -14,5 +14,6 @@ chrome.storage.local.get('blacklist', data => {
 
   if (isMalicious) {
     alert('Warning: The site you are visiting has been reported as a potential threat by URLhaus.');
+    console.log("Malicious site detected:", currentUrl);
   }
 });
