@@ -15,6 +15,8 @@ Browser extension for Chrome — Includes URL filtering, XSS detection, and phis
 3. Enable Developer Mode.
 4. Select the folder by selecting "Install unpackaged."
 
+git clone https://github.com/dc-r00tk1t/CyberSentinel.git
+
 ## License
 
 MIT
