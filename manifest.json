@@ -3,7 +3,7 @@
   "name": "CyberSentinel",
   "version": "1.0",
   "description": "URL filtering, XSS detection, and phishing warning",
-  "permissions": ["storage", "tabs", "scripting", "notifications"],
+  "permissions": ["storage", "tabs", "scripting", "notifications", "alarms"],
   "host_permissions": ["<all_urls>"],
   "background": {
     "service_worker": "background.js"
