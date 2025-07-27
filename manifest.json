@@ -1,4 +1,7 @@
 {
+  "manifest_version": 3,
+  "name": "CyberSentinel",
+  "version": "1.0",
   "permissions": [
     "storage",
     "alarms",
